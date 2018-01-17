@@ -15,7 +15,18 @@
           transform: translateY(-100%);
 }
 
-nav {
+#container {
+    width: 900px;
+    margin: 0 auto;
+    position:relative;
+    padding-top:50px;
+}
 
-  background-image: url("https://ecologyexterminating.com/wp-content/themes/local_microsites/images/maps/bayside-QN11.jpg");
+#nav {
+    height: 50px;
+    background: #b7d84b;
+    position:fixed;
+    z-index:10;
+    width:900px;
+    top:0;
 }
