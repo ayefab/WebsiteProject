@@ -14,3 +14,13 @@
       -ms-transform: translateY(-100%);
           transform: translateY(-100%);
 }
+
+ul {
+  background-color: white;
+  color: white;
+}
+
+li {
+  background-color: white;
+  color: white;
+}

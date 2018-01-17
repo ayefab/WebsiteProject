@@ -77,3 +77,7 @@
   border-right: 17px solid #2c3840;
   transition: all 0.2s linear;
 }
+
+img {
+  margin-bottom: 5px;
+}

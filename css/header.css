@@ -6,4 +6,9 @@ body {
 body {
   padding-bottom: 5px;
   margin-bottom: 5px;
+  background-color: black;
+}
+
+nav {
+  background-color: black;
 }
