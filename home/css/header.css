@@ -1,9 +1,14 @@
 style {
-  background-size: cover;
+  margin-top: 15px;
+  padding-top: 15px;
+
 
 }
 
-body {
- max-width: 250px;
- max-height: 250px;
+
+
+
+background-image {
+  margin-top: 40px;
+  padding-top: 40px;
 }

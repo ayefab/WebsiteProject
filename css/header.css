@@ -1,14 +1,18 @@
 body {
   background-position: center;
   background-repeat: no-repeat;
+  padding-top: 15px;
+  margin-top: 15px;
 }
 
-body {
-  padding-bottom: 5px;
-  margin-bottom: 5px;
-  background-color: black;
+style {
+  padding: 5px;
+  margin: 5px;
+  margin-top: 15px;
+  padding-top: 15px;
 }
 
-nav {
-  background-color: black;
+background-image {
+  padding-top: 15px;
+  margin-top: 15px;
 }
