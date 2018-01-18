@@ -45,7 +45,6 @@ attachment: fixed;
 align-content: fixed;
 padding-left: 2px;
 border-radius: 45px;
-;
 }
 
 nav {
@@ -72,7 +71,7 @@ a {
   background-color: #f4cb42;
 }
 
-li {
+source = {
   background-color: #f4cb42;
   color: #f4cb42;
 }
