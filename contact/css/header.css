@@ -22,3 +22,41 @@ background-image {
   margin-top: 15px;
 
 }
+
+
+
+ul {
+  align-content: space-between;
+  align-items: baseline;
+attachment: fixed;
+align-content: fixed;
+padding-left: 2px;
+border-radius: 45px;
+;
+}
+
+nav {
+
+
+}
+
+li {
+
+  color: #;
+  border-radius: 15px;
+  border-spacing: 5px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-decoration-color: black;
+  font: black;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  font-family: Times;
+}
+p {
+  font-family: Times;
+}
